@@ -9,3 +9,6 @@ Date: 11-11-2024
 
 RESEARCH JOB REQUIREMENT
 - Example : https://riseuplabs.com/jobs/front-end-developer/
+- "Docker" in Deplyment
+
+- 
